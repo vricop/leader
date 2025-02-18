@@ -70,6 +70,6 @@ Close
 
 ## Single strokes
 
-Quit     ── ● q - Quit neovim  # q        Quit neovim
-Explorer ── ● e - Exporer      # q        Quit neovim
+Quit     ── ● q - Quit neovim  # q     Quit neovim
+Explorer ── ● e - Exporer      # q     Explorer (toggle)
 ```
